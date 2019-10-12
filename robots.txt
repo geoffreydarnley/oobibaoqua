@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohwaephae.alanlemouroux.com/sitemap.xml
